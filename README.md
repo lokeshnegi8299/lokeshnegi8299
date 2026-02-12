@@ -55,8 +55,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (professional email)
+- LinkedIn: (https://www.linkedin.com/in/lokesh-singh-negi-687861212/)
+- Email: (lokeshnegi92@gmail.com)
 
 
 <!--
